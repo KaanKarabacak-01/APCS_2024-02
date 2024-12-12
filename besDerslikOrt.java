@@ -66,6 +66,8 @@ public class besDerslikOrt {
 		
 		System.out.println("Daha önce disiplin cezası aldınız mı(evet için 1 hayır için 0)?");
 		a=oku.nextDouble();
+		System.out.println("Daha önce takdir almadığınız bir eğitim yılı oldu mu(evet için 1 hayır için 0)?");
+		int b=oku.nextInt();
 		oku.close();
 		if(a==1) {
 			disiplinCezasi=true;
@@ -83,6 +85,9 @@ public class besDerslikOrt {
 		else {
 			System.out.println("Üzgünüm belge almak için yeterli değilsiniz.");
 		}
+		if(b==0){
+			System.out.println("Tebrikler Üstün Başarı Belgesi almaya hak kazandınız");
+		}	
 		System.out.println("Ortalamanız: "+toplam);
 	}
 	
