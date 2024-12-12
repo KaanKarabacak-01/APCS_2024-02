@@ -8,3 +8,5 @@ APCS sınavına hazırlanırken ödevlendirildiğim çalışmalar.
 **Program Akış Şeması(XML)** [Algoritmaya ulaşmak için tıklayınız.](https://github.com/KaanKarabacak-01/APCS_2024-02/blob/main/ortalamaHesaplamaAk%C4%B1sSemasi.drawio)<br><br>
 **Program Akış Şeması(PNG)** ![Algoritmaya ulaşmak için tıklayınız.](https://github.com/KaanKarabacak-01/APCS_2024-02/blob/main/ortalamaHesaplamaAk%C4%B1sSemasi.drawio%20(1).png)<br><br>
 
+## Ekstra
+Java kodunda notunuza 100den fazla sayı girerseniz o dersin puanını tekrar girmenizi isteyecektir.
