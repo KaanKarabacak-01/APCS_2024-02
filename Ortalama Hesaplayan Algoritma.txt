@@ -1,0 +1,8 @@
+1. Başla.
+2. Ekrana "Aralarında bir boşluk olacak şekilde
+önce ders ortalamanızı sonra haftalık ders sayınızı giriniz: " yaz.
+3. Girilen iki sayıyı oku. (s1, s2)
+4. toplamkatsayi+=s2 
+5. toplampuan=s1*s2
+6. Üstteki işlemleri 4 defa tekrarla
+7. ekrana toplampuan/toplamkatsayi yazdır
